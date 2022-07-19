@@ -37,5 +37,51 @@ namespace MoodAnalyzerMSTest
             Assert.AreEqual(expected, actual_Output);
 
         }
+        //Tc 3.1
+        [TestMethod]
+        public void Given_null_should_throw_moodAnalysisExceotion()
+        {
+            try
+            {
+                string message = null;
+                MoodAnalyzer moodAnalizer = new MoodAnalyzer(message);
+                string actual_Output = moodAnalizer.AnalizeMood();
+
+
+            }
+            catch (MoodAnalyzersException e)
+            {
+                Assert.AreEqual("mood Should not be null", e.Message);
+            }
+        }
+        //TC 3.2
+        //[TestMethod]
+        //public void Given_Empty_should_throw_MoodAnalysisException_EmptyMood()
+        //{
+        //    try
+        //    {
+        //        string message = "";
+        //        MoodAnalyzer moodAnalizer = new MoodAnalyzer(message);
+        //        string actual_Output = moodAnalizer.AnalizeMood();
+
+
+        //    }
+        //    catch (MoodAnalyzersException e)
+        //    {
+        //        Assert.AreEqual("mood Should not be empty", e.Message);
+        //    }
+        //}
+
+        [TestMethod]
+        public void GivenMoodAnalyseClassName_ShouldReturnMoodAnalyserObject()
+        {
+            
+                string message = null;
+                object expected = new MoodAnalyzer(message);
+                object obj = MoodAnalyzerFactory.CreateMoodAnalyse("MoodAnalysis.MoodAnalyzer", "MoodAnalyzer");
+                expected.Equals(obj);
+            
+            
+        }
     }
 }

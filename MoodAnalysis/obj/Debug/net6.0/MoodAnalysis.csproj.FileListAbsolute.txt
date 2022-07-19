@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\bin\Debug\net6.0\MoodAnalysis.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\bin\Debug\net6.0\MoodAnalysis.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\bin\Debug\net6.0\MoodAnalysis.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\bin\Debug\net6.0\MoodAnalysis.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\bin\Debug\net6.0\MoodAnalysis.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\refint\MoodAnalysis.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\MoodAnalysis.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\MoodAnalysis\MoodAnalysis\obj\Debug\net6.0\ref\MoodAnalysis.dll

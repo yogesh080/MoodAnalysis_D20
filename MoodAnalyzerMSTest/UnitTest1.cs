@@ -21,7 +21,7 @@ namespace MoodAnalyzerMSTest
             Assert.AreEqual(expected, actual_Output);
         }
         [TestMethod]
-        
+        [DataRow(null)]
         public void AnalyseMood_Happytest()
         {
             //Arrange
